@@ -1,0 +1,17 @@
+*{
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+style {
+  display:none
+}
+
+#Lister{
+  
+  background-color: tomato;
+}
